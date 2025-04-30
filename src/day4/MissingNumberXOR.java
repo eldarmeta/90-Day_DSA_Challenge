@@ -1,6 +1,8 @@
+package day4;
+
 public class MissingNumberXOR {
     public static void main(String[] args) {
-        int[] nums = {3, 0, 1};
+        int[] nums = {1, 3, 2, 0, 5};
         int missing = missingNumber(nums);
         System.out.println("Missing number: " + missing);
     }

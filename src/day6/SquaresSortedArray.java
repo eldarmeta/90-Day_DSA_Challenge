@@ -1,3 +1,5 @@
+package day6;
+
 public class SquaresSortedArray {
     public static int[] sortedSquares(int[] nums) {
         int n = nums.length;

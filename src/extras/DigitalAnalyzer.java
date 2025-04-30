@@ -1,3 +1,5 @@
+package extras;
+
 public class DigitalAnalyzer {
 
     public static void main(String[] args) {

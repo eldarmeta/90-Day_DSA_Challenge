@@ -1,3 +1,5 @@
+package day4;
+
 public class RemoveDuplicates {
     public static void main(String[] args) {
 

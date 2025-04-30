@@ -1,3 +1,5 @@
+package extras;
+
 public class RippleEffect {
 
     public static void main(String[] args) {

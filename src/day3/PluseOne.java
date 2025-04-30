@@ -1,4 +1,4 @@
-package extras;
+package day3;
 
 public class PluseOne {
 

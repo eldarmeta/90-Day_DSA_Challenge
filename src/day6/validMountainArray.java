@@ -1,3 +1,5 @@
+package day6;
+
 public class validMountainArray {
     public static boolean validMountainArray(int[] arr) {
         int n = arr.length;

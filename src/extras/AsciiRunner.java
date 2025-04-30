@@ -1,3 +1,5 @@
+package extras;
+
 public class AsciiRunner {
     public static void main(String[] args) throws InterruptedException {
         String[] frames = {

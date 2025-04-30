@@ -1,3 +1,5 @@
+package extras;
+
 import java.util.Random;
 import java.util.Scanner;
 

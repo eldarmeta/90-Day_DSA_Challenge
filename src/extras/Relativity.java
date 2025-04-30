@@ -1,3 +1,5 @@
+package extras;
+
 public class Relativity {
     public static void main(String[] args) {
 

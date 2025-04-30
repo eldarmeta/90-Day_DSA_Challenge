@@ -1,3 +1,5 @@
+package extras;
+
 public class XOREncryption {
     public static String xorEncrypt(String input, char key) {
         StringBuilder encrypted = new StringBuilder();

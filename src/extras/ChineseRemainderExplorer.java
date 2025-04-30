@@ -1,4 +1,4 @@
-import java.util.*;
+package extras;
 
 public class ChineseRemainderExplorer {
 

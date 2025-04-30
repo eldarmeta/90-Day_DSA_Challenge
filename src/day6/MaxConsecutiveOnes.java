@@ -1,4 +1,6 @@
-    public class MaxConsecutiveOnes {
+package day6;
+
+public class MaxConsecutiveOnes {
 
         public static int findMaxConsecutiveOnes(int[] nums) {
             int count = 0;

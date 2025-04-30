@@ -1,3 +1,5 @@
+package extras;
+
 public class CompoundEffect {
 
     public static void main(String[] args) {

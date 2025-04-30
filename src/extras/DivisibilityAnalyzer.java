@@ -1,3 +1,5 @@
+package extras;
+
 import java.util.*;
 
 public class DivisibilityAnalyzer {

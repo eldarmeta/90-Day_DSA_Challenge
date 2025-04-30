@@ -1,3 +1,5 @@
+package extras;
+
 public class DominoEffect {
 
     public static void main(String[] args) {

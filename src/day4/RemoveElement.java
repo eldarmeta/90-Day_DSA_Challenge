@@ -1,3 +1,5 @@
+package day4;
+
 public class RemoveElement {
     public static void main(String[] args) {
         int[] nums = {3, 2, 2, 3};

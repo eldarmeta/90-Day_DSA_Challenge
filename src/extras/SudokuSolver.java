@@ -1,3 +1,5 @@
+package extras;
+
 public class SudokuSolver {
     public static boolean solve(int[][] board) {
         for (int row = 0; row < 9; row++) {

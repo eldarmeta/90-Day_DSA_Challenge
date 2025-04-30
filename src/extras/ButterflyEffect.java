@@ -1,3 +1,5 @@
+package extras;
+
 public class ButterflyEffect {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package extras;
+
 public class KMP {
     public static int[] buildLPS(String pattern) {
         int[] lps = new int[pattern.length()];
