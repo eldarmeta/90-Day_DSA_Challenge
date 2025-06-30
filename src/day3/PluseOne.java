@@ -1,3 +1,5 @@
+package extras;
+
 public class PluseOne {
 
     public static void main(String[] args) {
