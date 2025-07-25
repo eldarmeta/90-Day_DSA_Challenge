@@ -1,3 +1,5 @@
+package Arrays.list.day7;
+
 import java.util.*;
 
 public class GravityFlip {

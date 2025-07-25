@@ -1,3 +1,5 @@
+package Arrays.list.day7;
+
 public class ThirdMaximumNumber {
     public static void main(String[] args) {
         int[] nums = {2, 3, 8, 9, 4, 8};

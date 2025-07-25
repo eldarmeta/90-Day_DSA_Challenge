@@ -1,4 +1,4 @@
-package day3;
+package Arrays.list.day3;
 
 public class MoveZeros {
 

@@ -1,4 +1,4 @@
-package day5;
+package Arrays.list.day5;
 
 public class MajorityElementBF {
     public static void main(String[] args) {

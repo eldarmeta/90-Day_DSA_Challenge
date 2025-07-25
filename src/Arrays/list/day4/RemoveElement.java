@@ -1,4 +1,4 @@
-package day4;
+package Arrays.list.day4;
 
 public class RemoveElement {
     public static void main(String[] args) {

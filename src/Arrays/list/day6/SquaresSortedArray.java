@@ -1,4 +1,4 @@
-package day6;
+package Arrays.list.day6;
 
 public class SquaresSortedArray {
     public static int[] sortedSquares(int[] nums) {

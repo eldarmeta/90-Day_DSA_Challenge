@@ -1,3 +1,5 @@
+package Strings.list.day1;
+
 import java.util.Scanner;
 
 public class fakeAnagram {
