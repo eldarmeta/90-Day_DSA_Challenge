@@ -1,6 +1,6 @@
 package Strings.list;
 
-public class bianarySearch704 {
+public class binarySearch704 {
     public int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
@@ -23,7 +23,7 @@ public class bianarySearch704 {
     }
 
     public static void main(String[] args) {
-        bianarySearch704 bs = new bianarySearch704();
+        binarySearch704 bs = new binarySearch704();
         int[] nums = {-1, 0, 3, 5, 9, 12};
 
         System.out.println(bs.search(nums, 9));
